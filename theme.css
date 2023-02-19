@@ -1,0 +1,21 @@
+/* Dark Mode */ :root .drK{/* Theme */ --themeC: $(themeDark);}
+
+/* Theme 1 - Red */ :root .theme1:not(.drK){/* Theme */ --themeC: #D32F2F; /* Body */ --bodyB: #FFFCFD; /* Link */ --linkC: #F44336; --linkB: #F44336; /* Header */ --headerB: linear-gradient(to right, #d32f2f, #e37b7b, #f0b9b9); /* Notif */ --notifU: #FFEBEE; --notifC: #B71C1C; /* Search */ --srchB: #FFEBEE; /* MobMn */ --mobB: #FFEBEE; /* Wave */ --waveB: #FFEBEE;}
+
+/* Theme 2 - Green */ :root .theme2:not(.drK){/* Theme */ --themeC: #6b8e23; /* Body */ --bodyB: #FCFFFC; /* Link */ --linkC: #608e00; --linkB: #608e00; /* Header */ --headerB: linear-gradient(to right, #6b8e23, #9dce39, #c7e38e); /* Notif */ --notifU: #eaf1db; --notifC: #496c01; /* Search */ --srchB: #eaf1db; /* MobMn */ --mobB: #eaf1db; /* Wave */ --waveB: #eaf1db;}
+
+/* Theme 3 - Blue */ :root .theme3:not(.drK){/* Theme */ --themeC: #1565C0; /* Body */ --bodyB: #FBFEFF; /* Link */ --linkC: #1976D2; --linkB: #1976D2; /* Header */ --headerB: linear-gradient(to right, #1565C0, #579dec, #aed0f6); /* Notif */ --notifU: #E3F2FD; --notifC: #1565C0; /* Search */ --srchB: #E3F2FD; /* MobMn */ --mobB: #E3F2FD; /* Wave */ --waveB: #E3F2FD;}
+
+/* Theme 4 - Yellow */ :root .theme4:not(.drK){/* Theme */ --themeC: #FFC107; /* Body */ --bodyB: #FFFEFA; /* Link */ --linkC: #FF8F00; --linkB: #FF8F00; /* Header */ --headerB: linear-gradient(to right, #FFC107, #fed96d, #fee8a8); /* Notif */ --notifU: #FFF8E1; --notifC: #FF8F00; /* Search */ --srchB: #FFF8E1; /* MobMn */ --mobB: #FFF8E1; /* Wave */ --waveB: #FFF8E1;}
+
+/* Theme 5 - Pink */ :root .theme5:not(.drK){/* Theme */ --themeC: #C2185B; /* Body */ --bodyB: #FFFCFD; /* Link */ --linkC: #D81B60; --linkB: #D81B60; /* Header */ --headerB: linear-gradient(to right, #C2185B, #eb689c, #f6bed4); /* Notif */ --notifU: #FCE4EC; --notifC: #C2185B; /* Search */ --srchB: #FCE4EC; /* MobMn */ --mobB: #FCE4EC; /* Wave */ --waveB: #FCE4EC;}
+
+/* Theme 6 - Orange */ :root .theme6:not(.drK){/* Theme */ --themeC: #E64A19; /* Body */ --bodyB: #FBFEFF; /* Link */ --linkC: #F4511E; --linkB: #F4511E; /* Header */ --headerB: linear-gradient(to right, #E64A19, #eb7753, #f4b7a5); /* Notif */ --notifU: #FBE9E7; --notifC: #E64A19; /* Search */ --srchB: #FBE9E7; /* MobMn */ --mobB: #FBE9E7; /* Wave */ --waveB: #FBE9E7;}
+
+/* Theme 7 - Tan */ :root .theme7:not(.drK){/* Theme */ --themeC: #956f3c; /* Body */ --bodyB: #FBFEFF; /* Link */ --linkC: #72634f; --linkB: #72634f; /* Header */ --headerB: linear-gradient(to right, #956f3c, #d2b48c, #dec8ac); /* Notif */ --notifU: #f2e9db; --notifC: #72634f; /* Search */ --srchB: #f6f1eb; /* MobMn */ --mobB: #ECEFF1; /* Wave */ --waveB: #d2b48c;}
+
+/* Theme 8 - Brown */ :root .theme8:not(.drK){/* Theme */ --themeC: #5D4037; /* Body */ --bodyB: #FBFEFF; /* Link */ --linkC: #5D4037; --linkB: #5D4037; /* Header */ --headerB: linear-gradient(to right, #5d4037, #a47567, #c3a59b); /* Notif */ --notifU: #EFEBE9; --notifC: #5D4037; /* Search */ --srchB: #EFEBE9; /* MobMn */ --mobB: #EFEBE9; /* Wave */ --waveB: #EFEBE9;}
+
+/* Theme 9 - Purple */ :root .theme9:not(.drK){/* Theme */ --themeC: #7B1FA2; /* Body */ --bodyB: #FBFEFF; /* Link */ --linkC: #8E24AA; --linkB: #8E24AA; /* Header */ --headerB: linear-gradient(to right, #7b1fa2, #ba60e1, #deb4f0); /* Notif */ --notifU: #F3E5F5; --notifC: #7B1FA2; /* Search */ --srchB: #F3E5F5; /* MobMn */ --mobB: #F3E5F5; /* Wave */ --waveB: #F3E5F5;}
+
+/* Theme 10 - Bronze */ :root .theme10:not(.drK){/* Theme */ --themeC: #665d1e; /* Body */ --bodyB: #FBFEFF; /* Link */ --linkC: #665d1e; --linkB: #665d1e; /* Header */ --headerB: linear-gradient(to right, #665d1e, #baaa37, #dcd289); /* Notif */ --notifU: #f5f6e8; --notifC: #665d1e; /* Search */ --srchB: #f5f6e8; /* MobMn */ --mobB: #f5f6e8; /* Wave */ --waveB: #f5f6e8;}
